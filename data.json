@@ -3,15 +3,15 @@
         "year": 2022,
         "month": 9,
         "week": 1,
-        "main_article_title" : "Name of the main article",
-        "main_article_date" : "September 6",
+        "main_article_title": "Name of the main article",
+        "main_article_date": "September 6",
         "main_article_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "main_article_thumbnail" : null,
-        "main_article_type" : "video",
+        "main_article_thumbnail": null,
+        "main_article_type": "video",
         "release_timestamp": 35424357834,
         "articles": [
             {
-                "title" : "Name of the article",
+                "title": "Name of the article",
                 "author": "Maxime Tschopp",
                 "date": "21 September",
                 "url": null,
@@ -32,7 +32,7 @@
                 ]
             },
             {
-                "title" : "Name of the article",
+                "title": "Name of the article",
                 "author": "Maxime Tschopp",
                 "date": "21 September",
                 "url": null,
@@ -53,7 +53,7 @@
                 ]
             },
             {
-                "title" : "Name of the article",
+                "title": "Name of the article",
                 "author": "Maxime Tschopp",
                 "date": "21 September",
                 "url": null,
@@ -74,7 +74,7 @@
                 ]
             },
             {
-                "title" : "Name of the article",
+                "title": "Name of the article",
                 "author": "Maxime Tschopp",
                 "date": "21 September",
                 "url": null,
@@ -100,15 +100,15 @@
         "year": 2022,
         "month": 9,
         "week": 3,
-        "main_article_title" : "Name of the main article",
-        "main_article_date" : "September 20",
+        "main_article_title": "Name of the main article",
+        "main_article_date": "September 20",
         "main_article_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "main_article_thumbnail" : null,
-        "main_article_type" : "video",
+        "main_article_thumbnail": null,
+        "main_article_type": "video",
         "release_timestamp": 35424357834,
         "articles": [
             {
-                "title" : "Name of the article",
+                "title": "Name of the article",
                 "author": "Maxime Tschopp",
                 "date": "21 September",
                 "url": null,
@@ -129,7 +129,7 @@
                 ]
             },
             {
-                "title" : "Name of the article",
+                "title": "Name of the article",
                 "author": "Maxime Tschopp",
                 "date": "21 September",
                 "url": null,
@@ -150,7 +150,7 @@
                 ]
             },
             {
-                "title" : "Name of the article",
+                "title": "Name of the article",
                 "author": "Maxime Tschopp",
                 "date": "21 September",
                 "url": null,
@@ -171,7 +171,7 @@
                 ]
             },
             {
-                "title" : "Name of the article",
+                "title": "Name of the article",
                 "author": "Maxime Tschopp",
                 "date": "21 September",
                 "url": null,
@@ -197,15 +197,15 @@
         "year": 2022,
         "month": 9,
         "week": 2,
-        "main_article_title" : "Name of the main article",
-        "main_article_date" : "September 13",
+        "main_article_title": "Name of the main article",
+        "main_article_date": "September 13",
         "main_article_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "main_article_thumbnail" : null,
-        "main_article_type" : "video",
+        "main_article_thumbnail": null,
+        "main_article_type": "video",
         "release_timestamp": 35424357834,
         "articles": [
             {
-                "title" : "Name of the article",
+                "title": "Name of the article",
                 "author": "Maxime Tschopp",
                 "date": "21 September",
                 "url": null,
@@ -226,7 +226,7 @@
                 ]
             },
             {
-                "title" : "Name of the article",
+                "title": "Name of the article",
                 "author": "Maxime Tschopp",
                 "date": "21 September",
                 "url": null,
@@ -247,7 +247,7 @@
                 ]
             },
             {
-                "title" : "Name of the article",
+                "title": "Name of the article",
                 "author": "Maxime Tschopp",
                 "date": "21 September",
                 "url": null,
@@ -268,7 +268,7 @@
                 ]
             },
             {
-                "title" : "Name of the article",
+                "title": "Name of the article",
                 "author": "Maxime Tschopp",
                 "date": "21 September",
                 "url": null,
@@ -289,5 +289,17 @@
                 ]
             }
         ]
-    } 
+    },
+    {
+        "year": 2022,
+        "month": 9,
+        "week": 3,
+        "main_article_name": "poopoo",
+        "main_article_date": "October 12",
+        "main_article_url": "https://www.youtube.com/watch?v=ioS4733ryFQ",
+        "main_article_thumbnail": null,
+        "main_article_type": "video",
+        "enabled": true,
+        "articles": []
+    }
 ]
