@@ -580,5 +580,18 @@
                 ]
             }
         ]
+    },
+    {
+        "year": 2022,
+        "month": 9,
+        "week": 4,
+        "main_article_name": "Mining awya",
+        "main_article_date": "November 19",
+        "main_article_url": "https://www.youtube.com/watch?v=ioS4733ryFQ",
+        "main_article_thumbnail": null,
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": []
     }
 ]
