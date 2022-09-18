@@ -629,15 +629,10 @@
                 "title": "This is a test!",
                 "author": "Nikita Lurye",
                 "date": "4 September",
+                "type": "link",
                 "url": "https://youtube.com",
                 "thumbnail": "https://raw.githubusercontent.com/2canupea/Lions-Roar-Site-Data/main/thumbnails/1663489912.596729.png",
-                "tags": [
-                    "Lower School",
-                    "Sport",
-                    "Math",
-                    "English",
-                    "French"
-                ]
+                "tags": ["Lower School", "Sport", "Math", "English", "French"]
             }
         ]
     }
