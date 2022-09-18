@@ -513,7 +513,20 @@
         "main_article_type": "video",
         "release_timestamp": 0,
         "enabled": true,
-        "articles": []
+        "articles": [
+            {
+                "title": "test",
+                "author": "Nikita Lurye",
+                "date": "1 January",
+                "url": "https://youtube.com",
+                "thumbnail": "thumbnails/1663489912.596729.png",
+                "tags": [
+                    "Lower School",
+                    "Math",
+                    "French"
+                ]
+            }
+        ]
     },
     {
         "year": 2022,
