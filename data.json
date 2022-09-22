@@ -432,6 +432,20 @@
                     "Spanish",
                     "Physics"
                 ]
+            },
+            {
+                "title": "sdfgsdfg",
+                "author": "dfghdfgh",
+                "date": "12 April",
+                "url": "dfhgdfhg",
+                "type": "link",
+                "thumbnail": null,
+                "tags": [
+                    "Upper School",
+                    "Middle School",
+                    "English",
+                    "Spanish"
+                ]
             }
         ]
     },
@@ -544,7 +558,24 @@
         "main_article_type": "video",
         "release_timestamp": 0,
         "enabled": true,
-        "articles": []
+        "articles": [
+            {
+                "title": "jhgkjhkjhg",
+                "author": "hkjhgkjhgkjgkjgkjgk",
+                "date": "20 August",
+                "url": "kl",
+                "type": "link",
+                "thumbnail": null,
+                "tags": [
+                    "Upper School",
+                    "Middle School",
+                    "Science",
+                    "Math",
+                    "German",
+                    "Spanish"
+                ]
+            }
+        ]
     },
     {
         "year": 2022,
@@ -651,6 +682,34 @@
         "day": 5,
         "main_article_title": "First Lion's Roar Publication!",
         "main_article_url": "https://www.youtube.com/watch?v=qibOaSAv0Zg",
+        "main_article_thumbnail": null,
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": [
+            {
+                "title": "dfhdfh",
+                "author": "dfghdfgh",
+                "date": "1 May",
+                "url": "dsfgsdfg",
+                "type": "audio",
+                "thumbnail": null,
+                "tags": [
+                    "Upper School",
+                    "Science",
+                    "Spanish",
+                    "Physics"
+                ]
+            }
+        ]
+    },
+    {
+        "year": 2024,
+        "month": 9,
+        "week": 4,
+        "day": 16,
+        "main_article_title": "A",
+        "main_article_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "main_article_thumbnail": null,
         "main_article_type": "video",
         "release_timestamp": 0,
