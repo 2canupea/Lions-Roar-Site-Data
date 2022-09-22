@@ -415,7 +415,25 @@
         "main_article_type": "video",
         "release_timestamp": 0,
         "enabled": true,
-        "articles": []
+        "articles": [
+            {
+                "title": "fdghdfgh",
+                "author": "dfghdfhgd dfgh dfghdfhgdfhfh",
+                "date": "1 January",
+                "url": "sdfgsdfgf",
+                "type": "text",
+                "thumbnail": null,
+                "tags": [
+                    "Upper School",
+                    "Middle School",
+                    "Lower School",
+                    "Sport",
+                    "German",
+                    "Spanish",
+                    "Physics"
+                ]
+            }
+        ]
     },
     {
         "year": 2022,
