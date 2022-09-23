@@ -1,5 +1,18 @@
 [
     {
+        "year": 2024,
+        "month": 9,
+        "week": 4,
+        "day": 16,
+        "main_article_title": "A",
+        "main_article_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "main_article_thumbnail": null,
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": []
+    },
+    {
         "year": 2023,
         "month": 1,
         "week": 2,
@@ -417,11 +430,11 @@
         "enabled": true,
         "articles": [
             {
-                "title": "fdghdfgh",
-                "author": "dfghdfhgd dfgh dfghdfhgdfhfh",
+                "title": "Title of extra Article",
+                "author": "Maxime Tschopp",
                 "date": "1 January",
                 "url": "sdfgsdfgf",
-                "type": "text",
+                "type": "video",
                 "thumbnail": null,
                 "tags": [
                     "Upper School",
@@ -702,18 +715,5 @@
                 ]
             }
         ]
-    },
-    {
-        "year": 2024,
-        "month": 9,
-        "week": 4,
-        "day": 16,
-        "main_article_title": "A",
-        "main_article_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "main_article_thumbnail": null,
-        "main_article_type": "video",
-        "release_timestamp": 0,
-        "enabled": true,
-        "articles": []
     }
 ]
