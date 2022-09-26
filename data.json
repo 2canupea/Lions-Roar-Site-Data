@@ -715,5 +715,18 @@
                 ]
             }
         ]
+    },
+    {
+        "year": 2022,
+        "month": 9,
+        "week": 5,
+        "day": 26,
+        "main_article_title": "Brody and Renata get into a FIGHT!!!!! **Cops were called**",
+        "main_article_url": "https://www.youtube.com/watch?v=W2xi6K6R13U",
+        "main_article_thumbnail": null,
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": []
     }
 ]
