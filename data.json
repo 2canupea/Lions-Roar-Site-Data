@@ -317,7 +317,26 @@
         "main_article_type": "video",
         "release_timestamp": 0,
         "enabled": true,
-        "articles": []
+        "articles": [
+            {
+                "title": "test for mobile text, so im gonna add a very long title, hopefully no one sees this, cause it kinda long",
+                "author": "Maxime Tschopp with a very long last name",
+                "date": "4 September",
+                "url": "https://thelionsroar.ch/m?force=true",
+                "type": "link",
+                "thumbnail": null,
+                "tags": [
+                    "Upper School",
+                    "Middle School",
+                    "Sport",
+                    "Math",
+                    "German",
+                    "French",
+                    "Spanish",
+                    "Physics"
+                ]
+            }
+        ]
     },
     {
         "year": 2022,
