@@ -309,6 +309,19 @@
     {
         "year": 2022,
         "month": 9,
+        "week": 5,
+        "day": 26,
+        "main_article_title": "Brody and Renata get into a FIGHT!!!!! **Cops were called**",
+        "main_article_url": "https://www.youtube.com/watch?v=W2xi6K6R13U",
+        "main_article_thumbnail": null,
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": []
+    },
+    {
+        "year": 2022,
+        "month": 9,
         "week": 3,
         "day": 20,
         "enabled": false,
@@ -428,39 +441,7 @@
         "main_article_type": "video",
         "release_timestamp": 0,
         "enabled": true,
-        "articles": [
-            {
-                "title": "Title of extra Article",
-                "author": "Maxime Tschopp",
-                "date": "1 January",
-                "url": "sdfgsdfgf",
-                "type": "video",
-                "thumbnail": null,
-                "tags": [
-                    "Upper School",
-                    "Middle School",
-                    "Lower School",
-                    "Sport",
-                    "German",
-                    "Spanish",
-                    "Physics"
-                ]
-            },
-            {
-                "title": "sdfgsdfg",
-                "author": "dfghdfgh",
-                "date": "12 April",
-                "url": "dfhgdfhg",
-                "type": "link",
-                "thumbnail": null,
-                "tags": [
-                    "Upper School",
-                    "Middle School",
-                    "English",
-                    "Spanish"
-                ]
-            }
-        ]
+        "articles": []
     },
     {
         "year": 2022,
@@ -571,24 +552,7 @@
         "main_article_type": "video",
         "release_timestamp": 0,
         "enabled": true,
-        "articles": [
-            {
-                "title": "jhgkjhkjhg",
-                "author": "hkjhgkjhgkjgkjgkjgk",
-                "date": "20 August",
-                "url": "kl",
-                "type": "link",
-                "thumbnail": null,
-                "tags": [
-                    "Upper School",
-                    "Middle School",
-                    "Science",
-                    "Math",
-                    "German",
-                    "Spanish"
-                ]
-            }
-        ]
+        "articles": []
     },
     {
         "year": 2022,
@@ -695,34 +659,6 @@
         "day": 5,
         "main_article_title": "First Lion's Roar Publication!",
         "main_article_url": "https://www.youtube.com/watch?v=qibOaSAv0Zg",
-        "main_article_thumbnail": null,
-        "main_article_type": "video",
-        "release_timestamp": 0,
-        "enabled": true,
-        "articles": [
-            {
-                "title": "dfhdfh",
-                "author": "dfghdfgh",
-                "date": "1 May",
-                "url": "dsfgsdfg",
-                "type": "audio",
-                "thumbnail": null,
-                "tags": [
-                    "Upper School",
-                    "Science",
-                    "Spanish",
-                    "Physics"
-                ]
-            }
-        ]
-    },
-    {
-        "year": 2022,
-        "month": 9,
-        "week": 5,
-        "day": 26,
-        "main_article_title": "Brody and Renata get into a FIGHT!!!!! **Cops were called**",
-        "main_article_url": "https://www.youtube.com/watch?v=W2xi6K6R13U",
         "main_article_thumbnail": null,
         "main_article_type": "video",
         "release_timestamp": 0,
