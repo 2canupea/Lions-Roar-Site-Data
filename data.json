@@ -319,21 +319,43 @@
         "enabled": true,
         "articles": [
             {
-                "title": "test for mobile text, so im gonna add a very long title, hopefully no one sees this, cause it kinda long",
-                "author": "Maxime Tschopp with a very long last name",
+                "title": "Saga club Full Interview",
+                "author": "Maxime Tschopp",
                 "date": "4 September",
                 "url": "https://thelionsroar.ch/m?force=true",
+                "type": "audio",
+                "thumbnail": null,
+                "tags": [
+                    "Upper School",
+                    "Middle School",
+                    "Lower School",
+                    "Science"
+                ]
+            },
+            {
+                "title": "Link to University Councelling Details Poster",
+                "author": "Brandon Smith",
+                "date": "30 September",
+                "url": "https://thelionsroar.ch/",
                 "type": "link",
                 "thumbnail": null,
                 "tags": [
                     "Upper School",
                     "Middle School",
-                    "Sport",
-                    "Math",
-                    "German",
-                    "French",
-                    "Spanish",
+                    "English",
                     "Physics"
+                ]
+            },
+            {
+                "title": "Grade 10 Poetry Exhibiton",
+                "author": "Various Authors",
+                "date": "30 September",
+                "url": "https://thelionsroar.ch/",
+                "type": "image",
+                "thumbnail": null,
+                "tags": [
+                    "Upper School",
+                    "English"
                 ]
             }
         ]
