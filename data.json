@@ -664,5 +664,18 @@
         "release_timestamp": 0,
         "enabled": true,
         "articles": []
+    },
+    {
+        "year": 2022,
+        "month": 10,
+        "week": 2,
+        "day": 3,
+        "main_article_title": "Amir set the building on Fire!!!",
+        "main_article_url": "https://youtu.be/OAj-lp5bv7k",
+        "main_article_thumbnail": null,
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": []
     }
 ]
