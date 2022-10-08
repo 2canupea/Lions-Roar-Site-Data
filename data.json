@@ -677,5 +677,30 @@
         "release_timestamp": 0,
         "enabled": true,
         "articles": []
+    },
+    {
+        "year": 2022,
+        "month": 10,
+        "week": 4,
+        "day": 19,
+        "main_article_title": "",
+        "main_article_url": "",
+        "main_article_thumbnail": null,
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": [
+            {
+                "title": "An Interview with Neal Shusterman",
+                "author": "Diego Aragon, Neal Shusterman",
+                "date": "7 October",
+                "url": "https://youtu.be/k4Lu5BaahW0",
+                "type": "video",
+                "thumbnail": null,
+                "tags": [
+                    "English"
+                ]
+            }
+        ]
     }
 ]
