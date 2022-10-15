@@ -10,7 +10,60 @@
         "main_article_type": "video",
         "release_timestamp": 0,
         "enabled": true,
-        "articles": []
+        "articles": [
+            {
+                "title": "Pienso en tu Mira",
+                "author": "Rosalia",
+                "date": "2 October",
+                "url": "https://youtu.be/p_4coiRG_BI",
+                "type": "video",
+                "thumbnail": null,
+                "tags": [
+                    "Science",
+                    "Math",
+                    "Spanish"
+                ]
+            },
+            {
+                "title": "Malamente",
+                "author": "Rosalia",
+                "date": "2 October",
+                "url": "https://youtu.be/Rht7rBHuXW8",
+                "type": "video",
+                "thumbnail": null,
+                "tags": [
+                    "Sport",
+                    "Math",
+                    "Spanish"
+                ]
+            },
+            {
+                "title": "Rosalia - La Fama (Official Video) ft. The Weeknd",
+                "author": "Rosalia, The Weeknd",
+                "date": "11 November",
+                "url": "https://youtu.be/e-CEd6xrRQc",
+                "type": "video",
+                "thumbnail": null,
+                "tags": [
+                    "English",
+                    "Spanish"
+                ]
+            },
+            {
+                "title": "Con Altura",
+                "author": "Rosalia",
+                "date": "4 October",
+                "url": "https://youtu.be/p7bfOZek9t4",
+                "type": "video",
+                "thumbnail": null,
+                "tags": [
+                    "Science",
+                    "English",
+                    "German",
+                    "Spanish"
+                ]
+            }
+        ]
     },
     {
         "year": 2023,
