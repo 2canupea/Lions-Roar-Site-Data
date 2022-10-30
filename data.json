@@ -284,8 +284,30 @@
                     "Middle School",
                     "Sport"
                 ]
+            },
+            {
+                "title": "Barefoot Interview",
+                "author": "Vadant",
+                "date": "28 October",
+                "url": "https://youtu.be/Vdx3xAjeLec",
+                "type": "video",
+                "thumbnail": null,
+                "tags": []
             }
         ]
+    },
+    {
+        "year": 2022,
+        "month": 10,
+        "week": 5,
+        "day": 26,
+        "main_article_title": "TURKEY TROT",
+        "main_article_url": "https://youtu.be/B7LEj82XTGM",
+        "main_article_thumbnail": null,
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": []
     },
     {
         "year": 2022,
@@ -794,19 +816,6 @@
         "day": 5,
         "main_article_title": "First Lion's Roar Publication!",
         "main_article_url": "https://www.youtube.com/watch?v=qibOaSAv0Zg",
-        "main_article_thumbnail": null,
-        "main_article_type": "video",
-        "release_timestamp": 0,
-        "enabled": true,
-        "articles": []
-    },
-    {
-        "year": 2022,
-        "month": 10,
-        "week": 5,
-        "day": 26,
-        "main_article_title": "TURKEY TROT",
-        "main_article_url": "https://youtu.be/B7LEj82XTGM",
         "main_article_thumbnail": null,
         "main_article_type": "video",
         "release_timestamp": 0,
