@@ -773,5 +773,18 @@
         "release_timestamp": 0,
         "enabled": true,
         "articles": []
+    },
+    {
+        "year": 2022,
+        "month": 10,
+        "week": 6,
+        "day": 31,
+        "main_article_title": "Turkey Trot, A Christmas Carol, Barefoot Club",
+        "main_article_url": "https://youtu.be/lQWy8-a5Vf4",
+        "main_article_thumbnail": "https://lh3.google.com/u/0/d/1KoKWswj0DP2RHI5Vi33l3FGOPQghJGKZ=w2940-h1444-iv1",
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": []
     }
 ]
