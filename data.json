@@ -264,6 +264,32 @@
     {
         "year": 2022,
         "month": 10,
+        "week": 6,
+        "day": 31,
+        "main_article_title": "Turkey Trot, A Christmas Carol, Barefoot Club",
+        "main_article_url": "https://youtu.be/lQWy8-a5Vf4",
+        "main_article_thumbnail": "https://lh3.google.com/u/0/d/1KoKWswj0DP2RHI5Vi33l3FGOPQghJGKZ=w2940-h1444-iv1",
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": [
+            {
+                "title": "Turkey Trot",
+                "author": "Brody Fogler, Renata Garibay, Maxime Tschopp",
+                "date": "26 October",
+                "url": "https://youtu.be/B7LEj82XTGM",
+                "type": "video",
+                "thumbnail": "https://lh3.google.com/u/0/d/1xqG8xF19m_svXO396Xp8ljFN-vkiiPvb=w2940-h1444-iv1",
+                "tags": [
+                    "Middle School",
+                    "Sport"
+                ]
+            }
+        ]
+    },
+    {
+        "year": 2022,
+        "month": 10,
         "week": 4,
         "day": 19,
         "main_article_title": "Upcoming Halloweek, Neal Shusterman and Breast Cancer Awareness Week",
@@ -777,11 +803,11 @@
     {
         "year": 2022,
         "month": 10,
-        "week": 6,
-        "day": 31,
-        "main_article_title": "Turkey Trot, A Christmas Carol, Barefoot Club",
-        "main_article_url": "https://youtu.be/lQWy8-a5Vf4",
-        "main_article_thumbnail": "https://lh3.google.com/u/0/d/1KoKWswj0DP2RHI5Vi33l3FGOPQghJGKZ=w2940-h1444-iv1",
+        "week": 5,
+        "day": 26,
+        "main_article_title": "TURKEY TROT",
+        "main_article_url": "https://youtu.be/B7LEj82XTGM",
+        "main_article_thumbnail": null,
         "main_article_type": "video",
         "release_timestamp": 0,
         "enabled": true,
