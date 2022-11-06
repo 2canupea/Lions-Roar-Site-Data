@@ -833,5 +833,18 @@
         "release_timestamp": 0,
         "enabled": true,
         "articles": []
+    },
+    {
+        "year": 2022,
+        "month": 11,
+        "week": 2,
+        "day": 7,
+        "main_article_title": "November 7th news",
+        "main_article_url": "https://youtu.be/aM8LCQaiSm8",
+        "main_article_thumbnail": null,
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": []
     }
 ]
