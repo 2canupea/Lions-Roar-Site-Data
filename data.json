@@ -272,7 +272,17 @@
         "main_article_type": "video",
         "release_timestamp": 0,
         "enabled": true,
-        "articles": []
+        "articles": [
+            {
+                "title": "Interview with Freddy MacDonald",
+                "author": "Freddy MacDonald",
+                "date": "1 November",
+                "url": "https://youtu.be/m8VEuCrYqRo",
+                "type": "video",
+                "thumbnail": null,
+                "tags": []
+            }
+        ]
     },
     {
         "year": 2022,
