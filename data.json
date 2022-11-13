@@ -1,5 +1,28 @@
 [
     {
+        "year": 2022,
+        "month": 11,
+        "week": 3,
+        "day": 14,
+        "main_article_title": "Girl Up, Yoga, and University Counciling",
+        "main_article_url": "https://www.youtube.com/watch?v=Xqx_r1A7-Lw",
+        "main_article_thumbnail": "https://lh3.google.com/u/0/d/1wEp8ix3xaclwmHVLctcKWU7fBYtBBRX-=w2940-h1446-iv1",
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": [
+            {
+                "title": "Girl Up",
+                "author": "Girl Up",
+                "date": "14 November",
+                "url": "https://youtu.be/QHIhCzp1exI",
+                "type": "video",
+                "thumbnail": "https://lh3.google.com/u/0/d/165Sld4II2fU4C96jkBnAsWt5ir8kKHLt=w2940-h1446-iv1",
+                "tags": []
+            }
+        ]
+    },
+    {
         "year": 2024,
         "month": 9,
         "week": 4,
