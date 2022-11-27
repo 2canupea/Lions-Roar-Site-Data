@@ -2,6 +2,20 @@
     {
         "year": 2022,
         "month": 11,
+        "week": 5,
+        "day": 28,
+        "main_article_title": "Nov 28th News",
+        "main_article_url": "https://www.youtube.com/watch?v=gK0bdAxnlJg",
+        "main_article_thumbnail": "https://lh3.google.com/u/0/d/1HcHSb_kFSr6vzXn96T7IqnTYGpoF_Gw8=w2940-h1446-iv2",
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": [
+        ]
+    },
+    {
+        "year": 2022,
+        "month": 11,
         "week": 4,
         "day": 21,
         "main_article_title": "Sports Awards, Project Green, A Christmas Carol",
