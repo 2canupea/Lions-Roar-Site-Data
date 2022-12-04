@@ -788,6 +788,19 @@
     },
     {
         "year": 2022,
+        "month": 12,
+        "week": 1,
+        "day": 5,
+        "main_article_title": "Dec 5th News",
+        "main_article_url": "https://youtu.be/3zWLDPGeo5g",
+        "main_article_thumbnail": "https://lh3.google.com/u/0/d/1fC-ImmNfLGAk27elYRf1Qd3V9K0BTGT3=w2940-h1446-iv1",
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": []
+    },
+    {
+        "year": 2022,
         "month": 9,
         "week": 1,
         "day": 6,
