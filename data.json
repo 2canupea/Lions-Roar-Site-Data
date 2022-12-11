@@ -276,6 +276,19 @@
     },
     {
         "year": 2022,
+        "month": 12,
+        "week": 2,
+        "day": 12,
+        "main_article_title": "Happy Holidays! Debate Club, Philosophy from Mr Doolan, Football Cup",
+        "main_article_url": "https://www.youtube.com/watch?v=mwDrP1FdtCo",
+        "main_article_thumbnail": "https://lh3.google.com/u/0/d/1wmbQE5xVol8KxRiICugUOMlj7TYBhFE3=w2940-h1452-iv1",
+        "main_article_type": "video",
+        "release_timestamp": 0,
+        "enabled": true,
+        "articles": []
+    },
+    {
+        "year": 2022,
         "month": 11,
         "week": 5,
         "day": 28,
